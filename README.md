@@ -2,7 +2,9 @@
 
 Welcome to my Google Cyber Security Professionals Certificate program offered by Google via Coursera!  
 🧑‍🎓 Program : Google-CyberSecurity Certificate
+
 🏢 Organization : Google hosted on Coursera
+
 🔗 Role : Learner
 
 ## 👨‍💻 Certificates:
