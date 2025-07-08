@@ -10,14 +10,14 @@ Welcome to my Google Cyber Security Professional Certificate program offered by 
 
 ## 1️⃣ Foundations Of Cybersecurity Certificate
 
- 📅 Issued : July 2025 
- 
- 📑 [View Google-CyberSecurity-Certificates](./Google-CyberSecurity-Certificates/Foundations_of_Cyber_Security.pdf)
- 
-## 2️⃣ Play It Safe:Manage Security Risks 
+📅 Issued: July 2025  
+📑 [View Certificate](./Certificates/Foundations_of_Cyber_Security.pdf)
 
-📅 Issued : July 2025
+---
 
-📑 [View certificates](./Play_It_safe_Certificate.pdf)
+## 2️⃣ Play It Safe: Manage Security Risks
+
+📅 Issued: July 2025  
+📑 [View Certificate](./Certificates/Play_It_safe_Certificate.pdf)
 
 
